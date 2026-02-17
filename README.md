@@ -1,6 +1,6 @@
 # Classic Rienforcement Learning, Car and Mountain Example
 
-![image](visual-for-readme.webp)
+[![visual-for-readme](https://img.youtube.com/vi/IQsudbc0zBY/maxresdefault.jpg)](https://youtu.be/IQsudbc0zBY)
 
 [Code is in main.py](https://github.com/importstring/Rienforcement-learning-momentum-example)
 
