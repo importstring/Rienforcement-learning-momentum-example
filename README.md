@@ -1,4 +1,6 @@
-[Video](https://drive.google.com/file/d/1CIz0Bp3m0A_hwKXpypnuA0b19LM69kEC/view?usp=sharing)
+# Classic Rienforcement Learning, Car and Mountain Example
+
+![image](visual-for-readme.webp)
 
 [Code is in main.py](https://github.com/importstring/Rienforcement-learning-momentum-example)
 
